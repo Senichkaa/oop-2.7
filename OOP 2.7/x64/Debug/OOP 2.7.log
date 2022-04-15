@@ -1,0 +1,8 @@
+﻿  Fraction.cpp
+C:\Users\hp\source\repos\OOP 2.7\OOP 2.7\Fraction.h(17,29): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  LongLong.cpp
+C:\Users\hp\source\repos\OOP 2.7\OOP 2.7\Fraction.h(17,29): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\hp\source\repos\OOP 2.7\OOP 2.7\Fraction.h(17,29): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  Создание кода...
+  OOP 2.7.vcxproj -> C:\Users\hp\source\repos\OOP 2.7\x64\Debug\OOP 2.7.exe
